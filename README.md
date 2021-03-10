@@ -1,5 +1,0 @@
-Nama     :
-NIM      :
-kelas    :
-klaster  :
-
